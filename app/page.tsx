@@ -101,7 +101,7 @@ export default function Home() {
             <div className="flex items-center gap-3">
               <Wand2 className="w-8 h-8 text-blue-600" />
               <div>
-                <h1 className="text-3xl font-bold text-gray-900">Mage AI Reviews</h1>
+                <h1 className="text-3xl font-bold text-gray-900">AiMage.Uk</h1>
                 <p className="text-gray-600 mt-1">Community reviews and discussions</p>
               </div>
             </div>

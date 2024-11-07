@@ -72,7 +72,7 @@ export function ReviewForm({ onSubmit, onClose }: ReviewFormProps) {
           required
           value={formData.content}
           onChange={(e) => setFormData(prev => ({ ...prev, content: e.target.value }))}
-          placeholder="Share your experience with Mage AI..."
+          placeholder="Share your experience with Ai Mage..."
           className="min-h-[200px] w-full"
         />
       </div>

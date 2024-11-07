@@ -1,7 +1,7 @@
 export const INITIAL_REVIEWS = [
   {
     id: 1,
-    title: "Mage AI: A Game-Changer in Content Creation",
+    title: "Ai Mage: A Game-Changer in Content Creation",
     author: "ai_enthusiast",
     timestamp: "2024-03-15T10:30:00",
     content: `Just spent a week testing Mage's content summarization features and I'm impressed. The AI's ability to condense lengthy articles while maintaining key points is remarkable.
@@ -21,10 +21,10 @@ Verdict: 9/10 - Would recommend for any content-heavy workflow.`,
   },
   {
     id: 2,
-    title: "Comprehensive Review: Mage AI for Data Analysis",
+    title: "Comprehensive Review: Ai Mage for Data Analysis",
     author: "data_scientist_pro",
     timestamp: "2024-03-14T15:45:00",
-    content: `After using Mage AI for a month in our data analysis pipeline, here's my detailed review:
+    content: `After using Ai Mage for a month in our data analysis pipeline, here's my detailed review:
 
 Strengths:
 • Exceptional data cleaning capabilities
